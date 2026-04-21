@@ -1,5 +1,11 @@
 # LawForAll — AI Powered Legal Awareness Platform
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![React](https://img.shields.io/badge/built%20with-React-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/built%20with-Vite-646CFF?logo=vite)
+![TypeScript](https://img.shields.io/badge/built%20with-TypeScript-3178C6?logo=typescript)
+
+
 ## Description
 LawForAll is a professional civic-tech application designed to empower citizens with legal knowledge. It provides a multilingual interface, an AI-powered legal assistant, and an interactive constitution explorer to make legal information more accessible to everyone.
 
