@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+coverage/
+.vscode/
+.idea/
+*.log
+.DS_Store
+&1
+dev_log.txt
+dev_output.txt
+output.txt

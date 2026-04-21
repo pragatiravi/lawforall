@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fundamental_rights",
+    "title": "Fundamental Rights",
+    "prompt": "A cinematic, high-quality educational video illustrating the Fundamental Rights of India, showing individuals of various backgrounds standing together in unity with sub-badges of equality and liberty.",
+    "preset_gradient": "from-blue-600 to-cyan-500"
+  },
+  {
+    "id": "justice",
+    "title": "Justice & Duty",
+    "prompt": "A cinematic, high-detail video of a balanced scale of justice slowly leveling, accompanied by structured stone pillared backdrops symbolizing democratic strength guidelines.",
+    "preset_gradient": "from-purple-600 to-indigo-500"
+  },
+  {
+    "id": "preamble_vision",
+    "title": "The Preamble Journey",
+    "prompt": "An animated particle simulation representing 'We the People of India' merging particles creating a glowing layout map of the sovereign republic outline clearly.",
+    "preset_gradient": "from-amber-600 to-orange-500"
+  },
+  {
+    "id": "democratic_republic",
+    "title": "Democratic Republic",
+    "prompt": "A dynamic animation of ballot boxes transforming into glowing light nodes connecting citizens to parliament building overhead sweeps dynamically.",
+    "preset_gradient": "from-emerald-600 to-teal-500"
+  },
+  {
+    "id": "fundamental_duties",
+    "title": "Fundamental Duties",
+    "prompt": "Looping cinematic sweeping camera views of historical monuments, environmental protection areas, and children getting scientific education setup layout visuals.",
+    "preset_gradient": "from-rose-600 to-pink-500"
+  }
+]

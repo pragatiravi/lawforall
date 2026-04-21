@@ -1,0 +1,429 @@
+[
+  {
+    "article_number": "1",
+    "official_title": "Name and territory of the Union",
+    "official_text": "(1) India, that is Bharat, shall be a Union of States. (2) The States and the territories thereof shall be as specified in the First Schedule. (3) The territory of India shall comprise— (a) the territories of the States; (b) the Union territories specified in the First Schedule; and (c) such other territories as may be acquired.",
+    "simple_explanation": "India is officially called 'India, that is Bharat.' It is a Union of States — meaning the states together form one country, but no state can leave. The country includes all states, Union territories (like Delhi and Chandigarh), and any new territory that may be acquired in the future.",
+    "key_points": [
+      "India is described as a 'Union of States,' not a 'Federation.'",
+      "States cannot secede from India.",
+      "Territory includes States, Union Territories, and acquired territories.",
+      "The First Schedule of the Constitution lists all States and Union Territories."
+    ],
+    "example": "When Telangana was carved out of Andhra Pradesh in 2014, it was done under the framework of Article 3. However, the overall territory still belongs to the Union as defined in Article 1.",
+    "do": [
+      "Understand that India is a union where sovereignty belongs to the whole, not to individual states.",
+      "Refer to the First Schedule for the current list of States and Union Territories."
+    ],
+    "dont": [
+      "Assume that states have the right to secede.",
+      "Confuse 'Union of States' with a loose federation or confederation."
+    ]
+  },
+  {
+    "article_number": "2",
+    "official_title": "Admission or establishment of new States",
+    "official_text": "Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.",
+    "simple_explanation": "Parliament has the power to admit new states into the Union of India or create entirely new states. The terms and conditions of admission or creation are decided by Parliament. This article deals with territories that are NOT already part of India (e.g., if a foreign territory merges with India).",
+    "key_points": [
+      "Parliament alone has the authority to admit or establish new states.",
+      "This article applies to territories NOT already part of India.",
+      "Admission of Sikkim in 1975 is an example. Sikkim was a separate protectorate and was admitted as the 22nd state.",
+      "This is different from Article 3, which deals with reorganization of existing states."
+    ],
+    "example": "Sikkim was admitted into the Union of India in 1975 through the 36th Constitutional Amendment, making it the 22nd state of India. Before this, Sikkim was an Indian protectorate.",
+    "do": [
+      "Distinguish between admission of new territories (Article 2) and reorganization of existing states (Article 3).",
+      "Understand that only Parliament has this power."
+    ],
+    "dont": [
+      "Confuse Article 2 (external admission) with Article 3 (internal reorganization).",
+      "Assume states can merge on their own without Parliament's approval."
+    ]
+  },
+  {
+    "article_number": "3",
+    "official_title": "Formation of new States and alteration of areas, boundaries or names of existing States",
+    "official_text": "Parliament may by law— (a) form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State; (b) increase the area of any State; (c) diminish the area of any State; (d) alter the boundaries of any State; (e) alter the name of any State. Provided that no Bill for the purpose shall be introduced in either House of Parliament except on the recommendation of the President and unless, where the proposal affects the area, boundaries or name of any of the States, the Bill has been referred by the President to the Legislature of that State for expressing its views thereon.",
+    "simple_explanation": "Parliament can form new states, merge states, change state boundaries, increase or decrease state areas, or rename states. However, a Bill for this purpose requires the President's recommendation and must be sent to the affected state legislature for its views — though Parliament is not bound by those views.",
+    "key_points": [
+      "Parliament can create new states from existing ones, merge states, or alter boundaries.",
+      "The President must recommend such a Bill before introduction.",
+      "The affected state legislature must be consulted, but its opinion is not binding.",
+      "Examples include creation of Telangana (2014), Chhattisgarh, Jharkhand, and Uttarakhand (2000)."
+    ],
+    "example": "Telangana was separated from Andhra Pradesh in 2014. The Andhra Pradesh state legislature opposed the division, but Parliament still passed the Andhra Pradesh Reorganisation Act, 2014.",
+    "do": [
+      "Understand that state boundaries are not permanent and can be changed by Parliament.",
+      "Note that the state legislature has only an advisory role in this process."
+    ],
+    "dont": [
+      "Believe that a state can veto the creation of a new state from its territory.",
+      "Confuse this with Article 2, which deals with territories outside India."
+    ]
+  },
+  {
+    "article_number": "4",
+    "official_title": "Laws made under Articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules",
+    "official_text": "(1) Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions as Parliament may deem necessary. (2) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368.",
+    "simple_explanation": "When Parliament creates, admits, or reorganizes states under Articles 2 and 3, it must automatically update the First Schedule (list of states) and the Fourth Schedule (Rajya Sabha seat allocation). Importantly, such changes are NOT treated as constitutional amendments — they only need a simple majority in Parliament, not the special majority required by Article 368.",
+    "key_points": [
+      "Laws under Articles 2 and 3 must update the First and Fourth Schedules.",
+      "These laws are not considered constitutional amendments under Article 368.",
+      "Only a simple majority in Parliament is needed, not a special majority.",
+      "This makes it relatively easier to reorganize states compared to amending the Constitution."
+    ],
+    "example": "When Telangana was created in 2014, the First Schedule was updated to add Telangana and the Fourth Schedule was modified to allocate Rajya Sabha seats. This was done via a simple majority.",
+    "do": [
+      "Understand that state reorganization laws automatically update applicable Schedules.",
+      "Know that these are not constitutional amendments despite modifying the Constitution's text."
+    ],
+    "dont": [
+      "Assume that creating a new state requires a constitutional amendment.",
+      "Confuse simple majority laws with the special majority process under Article 368."
+    ]
+  },
+  {
+    "article_number": "5",
+    "official_title": "Citizenship at the commencement of the Constitution",
+    "official_text": "At the commencement of this Constitution, every person who has his domicile in the territory of India and— (a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or (c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+    "simple_explanation": "At the time the Constitution came into effect (26 January 1950), a person became a citizen of India if they were domiciled in India AND either (a) born in India, (b) had a parent born in India, or (c) had been residing in India for at least 5 years before the Constitution commenced. This was a transitional provision to establish the initial body of citizens.",
+    "key_points": [
+      "This article applied only at the commencement of the Constitution (January 26, 1950).",
+      "Three categories of persons were granted citizenship: born in India, parent born in India, or resident for 5+ years.",
+      "Domicile in India was a mandatory requirement for all three categories.",
+      "This is a transitional provision and does not govern present-day citizenship."
+    ],
+    "example": "A person born in Lahore (now Pakistan) but domiciled in Delhi at the time of the Constitution's commencement became a citizen of India under this provision.",
+    "do": [
+      "Understand this article's historical context — it established the initial citizen body.",
+      "Know that current citizenship is governed by the Citizenship Act, 1955."
+    ],
+    "dont": [
+      "Apply this article to determine current citizenship — it was only for the Constitution's commencement.",
+      "Confuse domicile with mere residence."
+    ]
+  },
+  {
+    "article_number": "6",
+    "official_title": "Rights of citizenship of certain persons who have migrated to India from Pakistan",
+    "official_text": "Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if— (a) he or either of his parents or any of his grandparents was born in India as defined in the Government of India Act, 1935; and (b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or (b)(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf.",
+    "simple_explanation": "This article granted citizenship to persons who migrated from territories that became Pakistan to India. If they migrated before July 19, 1948, they only needed to be ordinarily resident in India since migration. If they migrated on or after that date, they had to register as citizens. In both cases, they or their parents/grandparents must have been born in undivided India.",
+    "key_points": [
+      "Addressed the citizenship status of Partition migrants from Pakistan to India.",
+      "Two categories based on migration date: before or after July 19, 1948.",
+      "Those who came before July 19, 1948 only needed continuous residence.",
+      "Those who came after July 19, 1948 had to formally register as citizens.",
+      "The person or their ancestors must have been born in undivided India."
+    ],
+    "example": "A Hindu family that fled Lahore during Partition in 1947 and settled in Delhi before July 19, 1948, became citizens automatically without needing to register.",
+    "do": [
+      "Understand the historical context of the India-Pakistan Partition of 1947.",
+      "Recognize that July 19, 1948 was the cut-off date for different procedures."
+    ],
+    "dont": [
+      "Apply this article to present-day immigration or refugee situations.",
+      "Confuse this with Article 7, which deals with migration TO Pakistan."
+    ]
+  },
+  {
+    "article_number": "7",
+    "official_title": "Rights of citizenship of certain migrants to Pakistan",
+    "official_text": "Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India. Provided that nothing in this article shall apply to a person who, having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law.",
+    "simple_explanation": "If a person migrated from India to Pakistan after March 1, 1947, they would NOT be considered an Indian citizen. However, if they later returned to India under a permit for resettlement or permanent return, they could regain citizenship. This was meant to address the reverse migration during Partition.",
+    "key_points": [
+      "Persons migrating from India to Pakistan after March 1, 1947 lost Indian citizenship.",
+      "Exception: those who returned under a permit for resettlement or permanent return.",
+      "This is a transitional provision specific to the Partition era.",
+      "Read together with Articles 5 and 6 for complete Partition citizenship provisions."
+    ],
+    "example": "A person who moved to Karachi from Mumbai in 1947 would not be an Indian citizen. But if they returned to India in 1948 with a resettlement permit, they could regain citizenship.",
+    "do": [
+      "Read Articles 5, 6, and 7 together for the full picture of Partition-era citizenship.",
+      "Understand the significance of the permit for resettlement."
+    ],
+    "dont": [
+      "Apply this to modern cross-border migration or refugee issues.",
+      "Assume all migrants to Pakistan permanently lost citizenship — the permit exception exists."
+    ]
+  },
+  {
+    "article_number": "8",
+    "official_title": "Rights of citizenship of certain persons of Indian origin residing outside India",
+    "official_text": "Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grandparents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative.",
+    "simple_explanation": "Persons of Indian origin living outside India at the time of the Constitution's commencement could become Indian citizens by registering with an Indian diplomatic or consular representative abroad. The condition was that they or their parents/grandparents must have been born in India as defined by the Government of India Act, 1935.",
+    "key_points": [
+      "Covered persons of Indian origin residing outside India at the Constitution's commencement.",
+      "Registration with an Indian embassy or consulate was required.",
+      "The person or their ancestors must have been born in India (as defined in 1935).",
+      "This was a transitional provision for the Indian diaspora at the time."
+    ],
+    "example": "An Indian-origin person living in South Africa in 1950, whose grandfather was born in Madras, could register at the Indian High Commission in Pretoria to become an Indian citizen.",
+    "do": [
+      "Understand this applied to the Indian diaspora at the time of independence.",
+      "Know that present-day overseas citizenship is governed by the Citizenship Act, 1955."
+    ],
+    "dont": [
+      "Confuse this with the modern OCI (Overseas Citizen of India) card scheme.",
+      "Assume this article applies to present-day citizenship applications from abroad."
+    ]
+  },
+  {
+    "article_number": "9",
+    "official_title": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens",
+    "official_text": "No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+    "simple_explanation": "If a person voluntarily acquires citizenship of another country, they automatically cease to be an Indian citizen. India does not allow dual citizenship. This rule applies to citizenship granted under Articles 5, 6, and 8.",
+    "key_points": [
+      "India does NOT allow dual citizenship.",
+      "If you voluntarily acquire a foreign country's citizenship, you lose Indian citizenship.",
+      "The keyword is 'voluntarily' — citizenship imposed without choice doesn't count.",
+      "This has been consistently upheld and remains the principle under the Citizenship Act, 1955."
+    ],
+    "example": "An Indian citizen who acquires U.S. citizenship by naturalization will automatically cease to be an Indian citizen. They can apply for OCI status but cannot hold both citizenships.",
+    "do": [
+      "Be aware that taking another country's citizenship means giving up Indian citizenship.",
+      "Know the difference between citizenship and OCI (Overseas Citizen of India) status."
+    ],
+    "dont": [
+      "Assume you can hold dual citizenship with India — you cannot.",
+      "Confuse involuntary acquisition with voluntary acquisition."
+    ]
+  },
+  {
+    "article_number": "10",
+    "official_title": "Continuance of the rights of citizenship",
+    "official_text": "Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+    "simple_explanation": "Persons who become citizens under Articles 5 to 9 continue to remain citizens unless Parliament makes a law regulating or restricting citizenship. This ensures continuity of citizenship while reserving Parliament's power to regulate it through legislation.",
+    "key_points": [
+      "Guarantees continuity of citizenship for those who became citizens under Part II.",
+      "Parliament can make laws to regulate citizenship (done via Citizenship Act, 1955).",
+      "Acts as a bridge between the transitional provisions (Articles 5–9) and parliamentary legislation.",
+      "Does not confer any new citizenship — only continues existing status."
+    ],
+    "example": "A person who became a citizen under Article 5 in 1950 continued to be a citizen. Parliament later made the Citizenship Act, 1955 to comprehensively regulate all citizenship matters.",
+    "do": [
+      "Understand this as a continuity provision, not a citizenship-granting provision.",
+      "Read it alongside Article 11, which gives Parliament the power to make citizenship laws."
+    ],
+    "dont": [
+      "Assume this article grants new citizenship to anyone.",
+      "Ignore the role of the Citizenship Act, 1955 in governing citizenship matters."
+    ]
+  },
+  {
+    "article_number": "11",
+    "official_title": "Parliament to regulate the right of citizenship by law",
+    "official_text": "Nothing in the foregoing provisions of this Part shall derogate from the power of Parliament to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.",
+    "simple_explanation": "Parliament has the supreme power to make laws on all matters relating to citizenship — including how citizenship is acquired, terminated, and all related issues. Articles 5 to 10 do not limit this power. The Citizenship Act, 1955 (amended several times, including in 2019) is Parliament's exercise of this power.",
+    "key_points": [
+      "Parliament's power to legislate on citizenship is absolute and unrestricted.",
+      "Articles 5 to 10 were transitional provisions; this article enables permanent legislation.",
+      "The Citizenship Act, 1955 is the primary legislation enacted under this article.",
+      "The Citizenship (Amendment) Act, 2019 (CAA) was also enacted under Parliament's authority from this article."
+    ],
+    "example": "The Citizenship Act, 1955 governs citizenship by birth, descent, registration, naturalization, and incorporation. The CAA, 2019, which fast-tracked citizenship for certain persecuted minorities from neighboring countries, was enacted under the power granted by Article 11.",
+    "do": [
+      "Understand that present-day citizenship issues are governed by the Citizenship Act, 1955.",
+      "Know that Parliament can amend citizenship law anytime under this article."
+    ],
+    "dont": [
+      "Rely solely on Articles 5–10 for understanding current citizenship rules.",
+      "Assume the Constitution itself provides a comprehensive citizenship code — that's the Citizenship Act's role."
+    ]
+  },
+  {
+    "article_number": "12",
+    "official_title": "Definition",
+    "official_text": "In this Part, unless the context otherwise requires, 'the State' includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.",
+    "simple_explanation": "This article defines what 'the State' means for Part III (Fundamental Rights). The State includes: the Central Government, Parliament, State Governments, State Legislatures, local bodies (like municipalities and panchayats), and other authorities controlled by the government. This definition is crucial because Fundamental Rights are enforceable against 'the State.'",
+    "key_points": [
+      "Defines 'the State' broadly for the purpose of Fundamental Rights.",
+      "Includes all levels of government: Central, State, and Local.",
+      "'Other authorities' has been interpreted widely by courts to include government companies, statutory bodies, etc.",
+      "Fundamental Rights under Part III can only be claimed against 'the State,' not private entities (with some exceptions)."
+    ],
+    "example": "If a government company refuses to hire someone based on caste, the person can claim violation of Article 16 (equality in public employment) because the company falls under 'the State' as defined in Article 12.",
+    "do": [
+      "Understand that Fundamental Rights are primarily against the State, not private individuals.",
+      "Know that the courts have broadly interpreted 'other authorities' to include many government-linked entities."
+    ],
+    "dont": [
+      "Assume Fundamental Rights apply against private companies or individuals (they generally don't, with some exceptions).",
+      "Narrow the definition of 'State' to mean only the Central Government."
+    ]
+  },
+  {
+    "article_number": "13",
+    "official_title": "Laws inconsistent with or in derogation of the fundamental rights",
+    "official_text": "(1) All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void. (2) The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void. (3) In this article, unless the context otherwise requires, 'law' includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law.",
+    "simple_explanation": "Any law that violates Fundamental Rights is void to the extent of the violation. This applies both to pre-Constitution laws and to new laws made after the Constitution. The term 'law' is broadly defined to include ordinances, rules, regulations, customs, and usages. This article provides the mechanism for judicial review of laws.",
+    "key_points": [
+      "Pre-Constitution laws inconsistent with Fundamental Rights are void from the Constitution's commencement.",
+      "The State cannot make any law that violates Fundamental Rights; such laws are void.",
+      "This is the basis of judicial review in India — courts can strike down unconstitutional laws.",
+      "'Law' includes written and unwritten rules — even customs and usages.",
+      "Constitutional amendments are generally exempt (as clarified in the Kesavananda Bharati case, 1973)."
+    ],
+    "example": "If Parliament passes a law prohibiting all public protests, it would violate Article 19(1)(b) (right to peaceful assembly) and could be struck down by the Supreme Court under Article 13.",
+    "do": [
+      "Understand that Article 13 is the foundation of judicial review in India.",
+      "Know that 'law' is defined very broadly and includes customs and administrative rules."
+    ],
+    "dont": [
+      "Assume that constitutional amendments can always be challenged under Article 13.",
+      "Think that only Acts of Parliament count as 'law' — the definition is much broader."
+    ]
+  },
+  {
+    "article_number": "14",
+    "official_title": "Equality before law",
+    "official_text": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+    "simple_explanation": "Every person — whether citizen or foreigner — within India is equal before the law and entitled to equal protection of the laws. 'Equality before law' means no one is above the law. 'Equal protection of laws' means the law treats equals equally. However, reasonable classification is permitted — the law can treat different groups differently if there is a valid reason.",
+    "key_points": [
+      "Two concepts: (1) Equality before law (British concept — no one is above law) and (2) Equal protection of laws (American concept — like should be treated alike).",
+      "Applies to ALL persons in India — citizens and non-citizens alike.",
+      "Reasonable classification is allowed — the State can classify groups for different treatment if the classification has a rational basis and a reasonable nexus with the objective.",
+      "This is the most invoked Fundamental Right in Indian courts."
+    ],
+    "example": "Both a politician and an ordinary citizen must follow the same traffic laws and face the same penalties. However, the government can create a special tax bracket for higher earners — this is reasonable classification, not discrimination.",
+    "do": [
+      "Treat all individuals equally regardless of their status or position.",
+      "Understand that reasonable classification is permitted — not all differentiation is discrimination."
+    ],
+    "dont": [
+      "Claim special legal immunity based on position, wealth, or influence.",
+      "Confuse reasonable classification with arbitrary discrimination."
+    ]
+  },
+  {
+    "article_number": "15",
+    "official_title": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth",
+    "official_text": "(1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. (2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to— (a) access to shops, public restaurants, hotels and places of public entertainment; or (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public. (3) Nothing in this article shall prevent the State from making any special provision for women and children. (4) Nothing in this article shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes.",
+    "simple_explanation": "The State cannot discriminate against any citizen on grounds of religion, race, caste, sex, or place of birth. Citizens cannot be denied access to public places like shops, restaurants, wells, roads, etc., on these grounds. However, the State CAN make special provisions for women, children, and socially/educationally backward classes (including SC/ST and OBC). This enables affirmative action programs like reservations.",
+    "key_points": [
+      "Prohibits discrimination by the State on five grounds: religion, race, caste, sex, and place of birth.",
+      "Applies to access to public places and facilities.",
+      "The word 'only' is important — discrimination on these grounds 'only' is prohibited.",
+      "Exceptions allow special provisions for women, children, backward classes, SC, ST, and OBC.",
+      "This is the constitutional basis for the reservation system in India."
+    ],
+    "example": "A restaurant that refuses to serve a person because of their caste violates Article 15. However, the government can reserve seats in colleges for SC/ST students without violating this article, as Article 15(4) permits such special provisions.",
+    "do": [
+      "Respect the dignity of every citizen regardless of caste, religion, race, sex, or place of birth.",
+      "Understand that reservations and affirmative action are constitutionally valid under Article 15(4) and (5)."
+    ],
+    "dont": [
+      "Discriminate against anyone on the basis of caste, religion, sex, or birthplace.",
+      "Confuse protective discrimination (reservations) with forbidden discrimination."
+    ]
+  },
+  {
+    "article_number": "16",
+    "official_title": "Equality of opportunity in matters of public employment",
+    "official_text": "(1) There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State. (2) No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.",
+    "simple_explanation": "All citizens have equal opportunity in government employment. No citizen can be discriminated against in public employment on grounds of religion, race, caste, sex, descent, place of birth, or residence. However, the State can make provisions for reservations for backward classes, SC/ST, and can also require residence as a condition for certain state-level posts.",
+    "key_points": [
+      "Guarantees equality of opportunity in government jobs.",
+      "Adds 'descent' and 'residence' to the grounds of non-discrimination (beyond Article 15).",
+      "The State can reserve positions for backward classes not adequately represented in State services.",
+      "Residence can be prescribed as a condition for certain posts in a State.",
+      "The Mandal Commission case (Indra Sawhney v. Union of India, 1992) was a landmark case under this article."
+    ],
+    "example": "The government cannot reject a qualified Dalit candidate for an IAS position because of their caste. Under Article 16(4), reservation of posts for SC/ST in government services is constitutionally valid.",
+    "do": [
+      "Ensure fair and equal opportunity for all in public employment.",
+      "Understand the constitutional basis for reservation in government jobs."
+    ],
+    "dont": [
+      "Practice or tolerate caste-based or religion-based discrimination in government hiring.",
+      "Assume personal connections can override merit or reserved positions."
+    ]
+  },
+  {
+    "article_number": "17",
+    "official_title": "Abolition of Untouchability",
+    "official_text": "'Untouchability' is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of 'Untouchability' shall be an offence punishable in accordance with law.",
+    "simple_explanation": "Untouchability in all its forms is completely abolished. Practicing untouchability is not just morally wrong but a punishable criminal offence. The Protection of Civil Rights Act, 1955 (formerly Untouchability Offences Act) prescribes punishments. This article uniquely applies against both the State and private individuals.",
+    "key_points": [
+      "Untouchability is completely abolished in every form.",
+      "Practice of untouchability is a punishable criminal offence.",
+      "The Protection of Civil Rights Act, 1955 enforces this article.",
+      "Unlike most Fundamental Rights, this applies against private individuals too, not just the State.",
+      "The SC/ST (Prevention of Atrocities) Act, 1989 provides additional protection."
+    ],
+    "example": "Refusing to allow a Dalit person to draw water from a village well or enter a temple constitutes the practice of 'untouchability' and is punishable under the Protection of Civil Rights Act.",
+    "do": [
+      "Treat every person with dignity regardless of their birth or caste.",
+      "Report instances of untouchability to the police — it is a criminal offence."
+    ],
+    "dont": [
+      "Practice any form of social exclusion based on caste.",
+      "Remain silent if you witness untouchability — it is a punishable offence."
+    ]
+  },
+  {
+    "article_number": "18",
+    "official_title": "Abolition of titles",
+    "official_text": "(1) No title, not being a military or academic distinction, shall be conferred by the State. (2) No citizen of India shall accept any title from any foreign State. (3) No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State. (4) No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State.",
+    "simple_explanation": "The State cannot confer titles of nobility on anyone. Military and academic titles (like Param Vir Chakra or Ph.D.) are exceptions. Indian citizens cannot accept titles from foreign states. Non-citizens holding office under the Indian State cannot accept foreign titles without the President's consent. This article promotes equality by preventing a class system based on titles.",
+    "key_points": [
+      "Abolishes titles of nobility to promote equality.",
+      "Military distinctions (e.g., Param Vir Chakra) and academic titles (e.g., Ph.D.) are allowed.",
+      "Bharat Ratna, Padma Shri, etc. are awards, not titles — they cannot be used as suffixes/prefixes (upheld by Supreme Court in Balaji Raghavan case, 1996).",
+      "Indian citizens cannot accept foreign titles; non-citizen office holders need Presidential consent."
+    ],
+    "example": "A citizen receiving the Bharat Ratna can use it as a distinction but NOT as a prefix or suffix to their name (e.g., 'Bharat Ratna Dr. APJ Abdul Kalam' is informal, not official usage).",
+    "do": [
+      "Understand the difference between titles (abolished) and national awards (permitted).",
+      "Know that national awards like Bharat Ratna are constitutional and valid."
+    ],
+    "dont": [
+      "Accept titles from foreign states without proper permission.",
+      "Use national awards as suffixes/prefixes to your name officially."
+    ]
+  },
+  {
+    "article_number": "19",
+    "official_title": "Protection of certain rights regarding freedom of speech, etc.",
+    "official_text": "(1) All citizens shall have the right— (a) to freedom of speech and expression; (b) to assemble peaceably and without arms; (c) to form associations or unions; (d) to move freely throughout the territory of India; (e) to reside and settle in any part of the territory of India; (g) to practise any profession, or to carry on any occupation, trade or business. (2) to (6) The State may impose reasonable restrictions on these rights in the interests of sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, or incitement to an offence.",
+    "simple_explanation": "Article 19 grants six fundamental freedoms to all citizens: (a) freedom of speech and expression, (b) peaceful assembly without arms, (c) forming associations/unions, (d) free movement throughout India, (e) residing in any part of India, and (g) practicing any profession or business. (Article 19(1)(f) — right to property — was removed by the 44th Amendment in 1978.) These freedoms are subject to 'reasonable restrictions' that the State can impose.",
+    "key_points": [
+      "Six fundamental freedoms guaranteed to Indian citizens only (not foreigners).",
+      "Freedom of speech includes freedom of press — there is no separate provision for press freedom.",
+      "Article 19(1)(f) — right to property — was repealed by the 44th Amendment (1978).",
+      "All freedoms are subject to 'reasonable restrictions' in the interest of listed grounds.",
+      "The test of 'reasonable restrictions' is decided by courts through judicial review."
+    ],
+    "example": "You can peacefully protest government policies under Article 19(1)(a) and (b). However, the State can impose restrictions if the protest incites violence or threatens public order.",
+    "do": [
+      "Exercise your freedoms responsibly and within legal bounds.",
+      "Understand that no freedom is absolute — reasonable restrictions exist."
+    ],
+    "dont": [
+      "Use freedom of speech to incite violence, hatred, or defamation.",
+      "Assume these rights extend to non-citizens — they are exclusively for Indian citizens."
+    ]
+  },
+  {
+    "article_number": "20",
+    "official_title": "Protection in respect of conviction for offences",
+    "official_text": "(1) No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence. (2) No person shall be prosecuted and punished for the same offence more than once. (3) No person accused of any offence shall be compelled to be a witness against himself.",
+    "simple_explanation": "Article 20 provides three crucial protections in criminal law: (1) No ex post facto laws — you cannot be punished for an act that was not a crime when committed. (2) No double jeopardy — you cannot be prosecuted and punished twice for the same offence. (3) No self-incrimination — no accused person can be forced to testify against themselves. These rights cannot be suspended even during a National Emergency.",
+    "key_points": [
+      "Protection against ex post facto laws — no retrospective criminal punishment.",
+      "Protection against double jeopardy — no punishment twice for the same offence.",
+      "Protection against self-incrimination — the accused cannot be compelled to be a witness against themselves.",
+      "These rights are available to ALL persons, not just citizens.",
+      "These rights CANNOT be suspended even during a National Emergency (Article 359)."
+    ],
+    "example": "If a person committed an act in 2020 that was legal at the time but was made illegal in 2022, they cannot be punished under the new law. Also, if someone is acquitted of a murder charge, they cannot be tried again for the same murder.",
+    "do": [
+      "Assert your right to not self-incriminate during a criminal investigation.",
+      "Know that these protections cannot be taken away even during emergencies."
+    ],
+    "dont": [
+      "Confuse departmental/disciplinary proceedings with criminal prosecution for double jeopardy purposes.",
+      "Assume the protection applies to civil cases — it is specifically for criminal offences."
+    ]
+  }
+]

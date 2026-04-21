@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Which Article of the Constitution guarantees the 'Right to Equality'?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "answer": "Article 14",
+    "explanation": "Article 14 ensures equality before law and equal protection of laws to all citizens within India."
+  },
+  {
+    "id": 2,
+    "question": "How many Fundamental Duties are listed in Article 51A?",
+    "options": ["10", "11", "12", "9"],
+    "answer": "11",
+    "explanation": "There are currently 11 Fundamental Duties. The 11th was added by the 86th Amendment in 2002."
+  },
+  {
+    "id": 3,
+    "question": "Which part of the Constitution is referred to as the 'Magna Carta' of India?",
+    "options": ["Part II", "Part III", "Part IV", "Part IV-A"],
+    "answer": "Part III",
+    "explanation": "Part III (Articles 12-35) deals with Fundamental Rights and is called the Magna Carta."
+  },
+  {
+    "id": 4,
+    "question": "Article 21 covers which of the following?",
+    "options": ["Right to Life and Liberty", "Right to Education", "Right to Information", "Right to Property"],
+    "answer": "Right to Life and Liberty",
+    "explanation": "Article 21 provides that no person shall be deprived of his life or personal liberty except according to procedure established by law."
+  },
+  {
+    "id": 5,
+    "question": "Who was the Chairman of the Drafting Committee of the Constitution?",
+    "options": ["Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel", "Dr. Rajendra Prasad"],
+    "answer": "Dr. B.R. Ambedkar",
+    "explanation": "Dr. B.R. Ambedkar is widely recognized as the Father of the Indian Constitution and chaired its drafting committee."
+  },
+  {
+    "id": 6,
+    "question": "Which writ is issued to release a person who has been detained unlawfully?",
+    "options": ["Habeas Corpus", "Mandamus", "Certiorari", "Quo Warranto"],
+    "answer": "Habeas Corpus",
+    "explanation": "Habeas Corpus literally means 'to have the body' and prevents illegal detentions."
+  },
+  {
+    "id": 7,
+    "question": "The Directive Principles of State Policy are borrowed from which country?",
+    "options": ["USA", "Ireland", "UK", "Australia"],
+    "answer": "Ireland",
+    "explanation": "The Directive Principles (DPSP) in Part IV were adapted from the Irish Constitution."
+  },
+  {
+    "id": 8,
+    "question": "Sovereign, Socialist, Secular, Democratic, Republic were declared in which section?",
+    "options": ["Preamble", "Article 1", "Article 13", "Schedules"],
+    "answer": "Preamble",
+    "explanation": "These core ideals are listed and declared right at the start inside the Preamble declaration."
+  },
+  {
+    "id": 9,
+    "question": "What is the maximum of Fundamental Rights originally on commencement?",
+    "options": ["6", "7", "8", "5"],
+    "answer": "7",
+    "explanation": "Originally there were 7. Right to Property was later removed on Amendment 44."
+  },
+  {
+    "id": 10,
+    "question": "Article 51A dealing with Duties falls under which Part?",
+    "options": ["Part IV-A", "Part IV", "Part III", "Part V"],
+    "answer": "Part IV-A",
+    "explanation": "Fundamental duties are grouped uniquely in Part IV-A following Directive Principles state maps."
+  }
+]
