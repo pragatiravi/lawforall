@@ -17,6 +17,18 @@ LawForAll is a professional civic-tech application designed to empower citizens 
 - **Advanced Search**: Quickly find articles and legal concepts.
 - **Visual Learning**: Interactive components to help visualize legal proceedings.
 
+## Screenshots
+<div align="center">
+  <h3>Homepage (English)</h3>
+  <img src="screenshots/homepage.png" alt="LawForAll Homepage" width="800">
+  
+  <h3>Detailed Article View</h3>
+  <img src="screenshots/article_details.png" alt="LawForAll Article 21 Details" width="800">
+  
+  <h3>Multilingual Support & AI Chat (Hindi)</h3>
+  <img src="screenshots/hindi_chat.png" alt="LawForAll Hindi Chat UI" width="800">
+</div>
+
 ## Tech Stack
 - **Frontend**: React + TypeScript
 - **Styling**: TailwindCSS / CSS
